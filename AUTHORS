@@ -1,0 +1,29 @@
+  1 AUTHORS
+  2
+  3 Repository contributors:
+  4
+  5 Soufiane Bachra
+  6      - Created repository
+  7      - Created README.md
+  8      - Created AUTHORS
+  9      - 0. Betty would be proud
+ 10      - 1. Simple shell 0.1
+ 11      - 2. Simple shell 0.2
+ 12      - 3. Simple shell 0.3
+ 13      - 4. Simple shell 0.4
+ 14      - 5. Simple shell 1.0
+ 15      - 6. Simple shell 0.1.1
+ 16      - 7. Simple shell 0.2.1
+ 17      - 8. Simple shell 0.4.1
+ 18
+ 19 Nnachi Amah
+ 20      - 9. setenv, unsetenv
+ 21      - 10. cd
+ 22      - 11. ;
+ 23      - 12. && and ||
+ 24      - 13. alias
+ 25      - 14. Variables
+ 26      - 15. Comments
+ 27      - 16. File as input
+ 28
+~
